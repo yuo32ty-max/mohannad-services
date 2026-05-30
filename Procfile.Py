@@ -1,0 +1,1 @@
+web: streamlit run Mohannad_Project_V2.py --server.port $PORT --server.address 0.0.0.0
